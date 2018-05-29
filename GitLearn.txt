@@ -1,6 +1,11 @@
 1. Git Rebase
 
+
 Changes made by person 1
 
 File text changed.
+
+
+Changes made by person 2 : some more changes
+vv
 
